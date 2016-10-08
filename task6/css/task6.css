@@ -44,6 +44,7 @@ header .h_r{
 }
 .a1 .banner{
 	display: inline-block;
+	float:left;
 	overflow: auto;
 	position: relative;
 }
